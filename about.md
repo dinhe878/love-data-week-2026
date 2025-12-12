@@ -1,55 +1,37 @@
 ---
-title: About the Hackathon
+title: About the Love Data Week
 menu_title: About
 menu_icon: globe2
 ---
 
-The Template Hackathon is a X-day hackathon event, organised by the University
-of Bristol's [Jean Golding Institute](https://www.bristol.ac.uk/golding/). Over
-the course of the event, teams of researchers will... We encourage contributions
-from early career researchers, including PhDs and Postdocs.
+Love Data Week is an international celebration of data, taking place every year during the week of Valentine’s day. Universities, nonprofit organizations, government agencies, corporations and individuals are encouraged to host and participate in data-related events and activities.
+
+For more information about other international activities please visit [ICPSR event website](https://www.icpsr.umich.edu/sites/icpsr/about/news-events/international-love-data-week).
 
 ## The organising team
 
 {:.lead}
-To contact us about the hackathon, please email our dedicated mailbox:
-<{{ site.mailbox_address }}>
+To contact us about the Nordic Love Data Week, please reach out to our team
 
 <table class="team-list">
+    {% for member in site.team %}
     <tr>
         <td>
-            <img alt="James Thomas" src="https://avatars.githubusercontent.com/u/48878399?s=120&v=4">
+            <img alt="{{ member.name }}" src="{{ member.image }}">
         </td>
         <td>
-            <strong>James Thomas</strong>
+            <strong>{{ member.name }}</strong>
+            {% if member.links %}
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=7PWOgX70s8UndjDH0UkfhsFGi763DB"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Website" href="https://jatonline.co.uk/"><i class="bi bi-globe2"></i></a>
-                <a title="GitHub" href="https://github.com/jatonline/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/JGIBristol"><i class="bi bi-twitter"></i></a>
+                {% for link in member.links %}
+                <a title="{{ link.title }}" href="{{ link.url }}"><i class="bi {{ link.icon }}"></i></a>
+                {% endfor %}
             </span>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
+            {% endif %}
+            <br>{{ member.affiliation }}
+            {% if member.title %}<br>{{ member.title }}{% endif %}
+            <br><a href="mailto:{{ member.email }}">{{ member.email }}</a>
         </td>
     </tr>
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Another person</strong>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Another person</strong>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
-        </td>
-    </tr>
+    {% endfor %}
 </table>
