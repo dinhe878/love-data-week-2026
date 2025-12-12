@@ -1,20 +1,23 @@
-title: Template Hackathon
-nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+title: Nordic Love Data Week
+nav_title: Nordic Love Data Week<br><small><span class="hide-very-narrow">with</span> Nordic Universities</small>
 
-event_date: 2–4 June 2021
-registration_opens_date: 17 March 2021
-registration_closes_date: 16 April 2021
+event_date: 9–13 Feb 2026
+registration_opens_date: 12 Jan 2026
+registration_closes_date: 9 Feb 2026
 
-author: University of Bristol Jean Golding Institute
-mailbox_address: ...@bristol.ac.uk
+author: Ding He
+mailbox_address: dinghe@dtu.dk
 
 description:
-  The Template Hackathon is a X-day hackathon event, organised by the University
-  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
-  researchers will...
+  Love Data Week is an international celebration of data, taking place every year during the week of Valentine’s day. 
+  Universities, nonprofit organizations, government agencies, corporations and individuals are encouraged to host and 
+  participate in data-related events and activities.
 
-url: "https://jgibristol.github.io/hackathon-template"
-github_repo: jgibristol
+  This year, for the first time, Nordic Love Data Week is organized by a consortium of Nordic universities, aiming to promote awareness 
+  and best practices in research data management, data sharing, and data literacy across the Nordic region.
+
+url: "https://dinghe.github.io/love-data-week-2026"
+github_repo: dinghe/love-data-week-2026
 
 theme: minima
 
