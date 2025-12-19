@@ -31,7 +31,7 @@ To contact us about the Nordic Love Data Week, please reach out to our team
                       <i class="bi {{ link.icon }}"></i>
                     {% endif %}
                   </a>
-                {% endfor %}            
+                {% endfor %}
             </span>
             {% endif %}
             <br>{{ member.affiliation }}
