@@ -1,10 +1,10 @@
 ---
-title: Hackathon agenda
+title: Nordic Love Data Week Agenda
 menu_title: Agenda
 menu_icon: clock
 event_status:
  - soon
- - now
+# - now
 ---
 
 ## Day 1

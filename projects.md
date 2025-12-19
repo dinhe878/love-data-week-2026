@@ -1,6 +1,6 @@
 ---
 layout: project_list
-title: Hackathon projects
+title: Data management projects
 menu_title: Projects
 menu_icon: briefcase
 ---

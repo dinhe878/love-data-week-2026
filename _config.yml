@@ -10,10 +10,52 @@ mailbox_address: dinghe@dtu.dk
 
 # Team members
 team:
+  - name: Sofie Husby
+    email: soh.lib@cbs.dk
+    image: /assets/Sofie-Husby.jpg
+    affiliation: Copenhagen Business School (CBS)
+    title: Information Specialist, CBS Library
+    links:
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/sofie-husby-7005273
+        icon: bi-linkedin
+      - title: ORCID
+        url: https://orcid.org/0000-0002-8857-8549
+        icon: /assets/orcid.logo.icon.svg
+  - name: Rosa Lönneborg
+    email: rosa@kth.se
+    image: /assets/Rosa-Lonneborg.jpg
+    affiliation: KTH Royal Institute of Technology (KTH)
+    title: Research Data Coordinator, KTH Library
+    links:
+      - title: KTH Profile
+        url: https://www.kth.se/profile/rosa?l=en
+        icon: bi-person-lines-fill
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/rosalonneborg/
+        icon: bi-linkedin
+      - title: ORCID
+        url: https://orcid.org/0000-0002-7679-1369
+        icon: /assets/orcid.logo.icon.svg
+  - name: Jitka Stilund Hansen
+    email: jstha@dtu.dk
+    image: /assets/Jitka-Stilund-Hansen.png
+    affiliation: Technical University of Denmark (DTU)
+    title: Senior Executive Research Data Management Officer, Office for Research, Advice and Innovation
+    links:
+      - title: DTU Orbit Profile
+        url: https://orbit.dtu.dk/en/persons/jitka-stilund-hansen/
+        icon: bi-person-lines-fill
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/jitkastilundhansen/
+        icon: bi-linkedin
+      - title: ORCID
+        url: https://orcid.org/0000-0002-5888-1221
+        icon: /assets/orcid.logo.icon.svg
   - name: Ding He
     email: dinghe@dtu.dk
     image: /assets/Ding-He.png
-    affiliation: DTU
+    affiliation: Technical University of Denmark (DTU)
     title: Research Data Steward, BRIGHT
     links:
       - title: DTU Orbit Profile
@@ -22,6 +64,12 @@ team:
       - title: GitHub
         url: https://github.com/dinghe878
         icon: bi-github
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/ding-he-b9966722/
+        icon: bi-linkedin
+      - title: ORCID
+        url: https://orcid.org/0000-0002-0440-5676
+        icon: /assets/orcid.logo.icon.svg
   # Add more team members below:
   # - name: Team Member Name
   #   email: email@example.com
@@ -62,14 +110,14 @@ header_pages:
 #    now = event is currently happening
 #   over = event has happened
 #  (demo = show all pages to demonstrate the template)
-event_status: demo
+event_status: soon
 
 # Open and close the registration form
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 # closed = Registration form is now closed
 #  (demo = show all pages to demonstrate the template)
-registration_status: demo
+registration_status: soon
 
 # Remove ".html" from default permalinks
 permalink: pretty

@@ -1,5 +1,5 @@
 ---
-title: Hackathon resources
+title: Resources
 menu_title: Resources
 menu_icon: journal-code
 ---

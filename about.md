@@ -24,7 +24,13 @@ To contact us about the Nordic Love Data Week, please reach out to our team
             {% if member.links %}
             <span class="profile-links">
                 {% for link in member.links %}
-                <a title="{{ link.title }}" href="{{ link.url }}"><i class="bi {{ link.icon }}"></i></a>
+                  <a title="{{ link.title }}" href="{{ link.url }}">
+                    {% if link.icon == '/assets/orcid.logo.icon.svg' %}
+                      <img src="{{ site.baseurl }}{{ link.icon }}" alt="{{ link.title }}" class="icon-img" style="width: 1.25em; height: 1.25em;">
+                    {% else %}
+                      <i class="bi {{ link.icon }}"></i>
+                    {% endif %}
+                  </a>
                 {% endfor %}
             </span>
             {% endif %}
