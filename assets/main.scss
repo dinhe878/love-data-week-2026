@@ -324,3 +324,54 @@ ul.grid {
 }
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+
+/* -------------------------
+   Testing Agenda table column widths
+   ------------------------- */
+
+.agenda {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.agenda th,
+.agenda td {
+  padding: 0.5em;
+  vertical-align: top;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Column 1: Time (normal) */
+.agenda th:nth-child(1),
+.agenda td:nth-child(1) {
+  width: 11%;
+}
+
+/* Column 2: Event Title (double normal) */
+.agenda th:nth-child(2),
+.agenda td:nth-child(2) {
+  width: 22%;
+}
+
+/* Column 3: Where to go (normal) */
+.agenda th:nth-child(3),
+.agenda td:nth-child(3) {
+  width: 11%;
+}
+
+/* Column 4: Event Details (four times normal) */
+.agenda th:nth-child(4),
+.agenda td:nth-child(4) {
+  width: 44%;
+}
+
+/* Column 5: Organiser link (normal) */
+.agenda th:nth-child(5),
+.agenda td:nth-child(5) {
+  width: 11%;
+}
+
