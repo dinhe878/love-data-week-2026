@@ -36,7 +36,9 @@ menu_icon: house-door
 Visit the Agenda page (LINK) to find an online webinar or workshop of interest.
 
 Further, we invite research groups to create their own hands‑on events on  
-**Where's the Data Day** (LINK). Reserve some time for taking care of your research data and joining other research groups across the Nordic countries in developing better data practices.
+
+**Where's the Data Day** (LINK). 
+Reserve some time for taking care of your research data and joining other research groups across the Nordic countries in developing better data practices.
 
 ---
 
