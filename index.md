@@ -5,10 +5,10 @@ menu_title: Home
 menu_icon: house-door
 ---
 
+<img src="assets/advert.png" alt="Nordic Love Data Week banner" style="float: right; width: 40%; margin-left: 1.5rem; border-radius: 8px;">
+
 # Nordic Love Data Week 2026  
 **9–13 February 2026**
-
-![Nordic Love Data Week banner](assets/advert.png)
 
 ---
 
