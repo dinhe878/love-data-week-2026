@@ -24,7 +24,11 @@ menu_icon: house-door
   </div>
 
   <div style="flex: 1; max-width: 350px; min-width: 250px;">
-    <img src="{{ site.baseurl }}/assets/advert.png" alt="Nordic Love Data Week banner" style="width:100%; border-radius: 8px;">
+    <img 
+      src="{{ site.baseurl }}{% link assets/advert.png %}" 
+      alt="Nordic Love Data Week banner" 
+      style="width:100%; border-radius: 8px;"
+    >
   </div>
 
 </div>
