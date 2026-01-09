@@ -37,11 +37,29 @@ team:
       - title: ORCID
         url: https://orcid.org/0000-0002-7679-1369
         icon: /assets/orcid.logo.icon.svg
+  - name: Ajuna Azad
+    email: ajuaza@dtu.dk
+    image: /assets/Ajuna-Azad.jpeg
+    affiliation: Technical University of Denmark (DTU)
+    title: Research Data Steward, BRIGHT
+    links:
+      - title: DTU Orbit Profile
+        url: https://orbit.dtu.dk/en/persons/ajuna-azad-2/
+        icon: bi-person-lines-fill
+      - title: GitHub
+        url: https://github.com/ajuaza
+        icon: bi-github
+      - title: LinkedIn
+        url: https://www.linkedin.com/in/azadajuna/?originalSubdomain=dk
+        icon: bi-linkedin
+      - title: ORCID
+        url: https://orcid.org/0000-0002-2846-6019
+        icon: /assets/orcid.logo.icon.svg
   - name: Jitka Stilund Hansen
     email: jstha@dtu.dk
     image: /assets/Jitka-Stilund-Hansen.png
     affiliation: Technical University of Denmark (DTU)
-    title: Senior Executive Research Data Management Officer, Office for Research, Advice and Innovation
+    title: Senior Executive Research Data Management Officer, DTU Library
     links:
       - title: DTU Orbit Profile
         url: https://orbit.dtu.dk/en/persons/jitka-stilund-hansen/
@@ -98,7 +116,7 @@ theme: minima
 # The actual visibility of the nav bar links is influenced by the event_status
 # and registration_status flags below
 header_pages:
-  - registration.md
+  # - registration.md (no need hence removed)
   - agenda.md
   - projects.md
   - videos-slides.md
