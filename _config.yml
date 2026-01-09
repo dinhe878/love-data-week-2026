@@ -118,7 +118,7 @@ theme: minima
 header_pages:
   # - registration.md (no need hence removed)
   - agenda.md
-  - projects.md
+  - where-is-the-data-day.md
   - videos-slides.md
   - resources.md
   - about.md
