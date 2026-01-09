@@ -1,68 +1,56 @@
 ---
 layout: page
-title: Hei Hej Data Lovers!
+title: Hei – Hej Data Lovers!
 menu_title: Home
 menu_icon: house-door
 ---
 
-{:.secondary}
-# {{ site.event_date }}
+# Nordic Love Data Week 2026  
+**9–13 February 2026**
 
-<div class="aside">
-    <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
-    <dl>
-        {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
-            <dt>{{ site.registration_opens_date }}</dt>
-            <dd>
-                Registration open for participants<br>
-                {% if site.registration_status == 'open' %}
-                    <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register now</a>
-                {% elsif site.registration_status == 'closed' %}
-                    <a class="btn disabled">Registration has closed</a>
-                {% elsif site.registration_status == 'soon' %}
-                    <a class="btn disabled">Registration opens soon</a>
-                {% endif %}
-            </dd>
-        {% endif %}
+![Nordic Love Data Week banner](assets/advert.png)
 
-        <dt>{{ site.registration_closes_date }}</dt>
-        <dd>Registration close</dd>
+---
 
-        <dt>{{ site.event_date }}</dt>
-        <dd>Nordic Love Data Week</dd>
-    </dl>
-</div>
+## 💾 “Where’s the Data?” Day  
+**12 February 2026**
 
-{% if site.event_status != "over" %}
+Join research groups across the Nordics for a data clean‑up day.  
+Give some love to your data — tidy, document, and share!
 
-This year, for the first time, Nordic Love Data Week is organized by several Nordic universities. We aim to promote awareness and best practices about research data management, data sharing, and data literacy across the Nordic region.
+🔗 Find inspiration for tasks: [shorturl…](#)
 
-We have several presentations to offer. 
+---
 
-However, your research group may need to spend some love on own data practices. Therefore, we invite you to set aside some time with your research group for the Nordic "Where's the Data Day" on Thursday 12 February.
+## 💖 Give your data some love
 
-## When and where
+However, your research group may need to spend some love on your own data practices.  
+Therefore, we invite you to set aside some time with your research group for the Nordic  
+**“Where’s the Data Day”** on **Thursday 12 February**.
 
-Visit the Agenda page (LINK) to find an online webinar or workshop of interest.
+---
 
-Further, invite your research groups to the **Where's the Data Day** (LINK), where you reserve some time for taking care of your research data. Join other research groups across the Nordic countries in developing robust data practices.
+## 📍 When and where
 
-## Välkommen! Tervetuloa! Velkommen!
+Visit the [Agenda page](#) to find an online webinar or workshop of interest.
 
-[faq]: {{ site.baseurl }}{% link faq.md %}
+We also invite research groups to create their own hands‑on events on **Where’s the Data Day**.  
+Reserve some time for taking care of your research data and join other research groups across the Nordic countries in developing better data practices.  
+Learn more [here](#).
 
-{% else %}
+---
 
-Scientists from the University of Bristol hosted a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+## 🧠 What is Nordic Love Data Week?
 
-Researchers could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams were be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers could be
-from any UK academic institution.
+This year, for the first time, **Nordic Love Data Week** is organized by several Nordic universities.  
+We aim to promote:
 
-The event took place virtually, using a combination of **video conferencing**
-(Zoom) for meetings and seminars, and **discussion forums** (Slack) for ongoing
-comms. Data holding and analysis took place on...
+- Research data management best practices  
+- Data sharing and reuse  
+- Data literacy across the Nordic region  
 
-{% endif %}
+---
+
+## 🌍 Välkommen! Tervetuloa! Velkommen!
+
+Use the hashtag **#LoveData26** to share your events, data stories, and clean‑up victories.
