@@ -113,7 +113,7 @@ Key pages to customize:
 - **`agenda.md`** - Event schedule
 - **`registration.md`** - Registration form and information
 - **`projects.md`** - Hackathon/project listings
-- **`resources.md`** - Links to helpful resources
+- **`activities.md`** - Links to helpful activities
 - **`about.md`** - Information about the event and organizing team
 - **`videos-slides.md`** - Event recordings and presentation slides
 - **`code-of-conduct.md`** - Event code of conduct
@@ -206,7 +206,7 @@ The site will automatically rebuild and deploy to GitHub Pages (usually within a
 │   ├── main.scss
 │   ├── logo.png
 │   └── advert.png
-├── resources/               # Event resources and templates
+├── activities/              # Event activities and templates
 │   ├── environment/         # Python environment files
 │   └── templates/           # Email and form templates
 ├── Gemfile                  # Ruby dependencies

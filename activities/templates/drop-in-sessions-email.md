@@ -11,7 +11,7 @@ Are you having problems getting logged in to JASMIN, either the Notebook Service
 
 Have you **[joined our Slack]**?
 
-Have you managed to run any of our **[tutorial notebooks](https://cmip6moap.github.io/resources/#tutorial-notebooks)**? 📑
+Have you managed to run any of our **[tutorial notebooks](https://cmip6moap.github.io/activities/#tutorial-notebooks)**? 📑
 
 Get any issues ironed out before the hackathon starts 🎉
 

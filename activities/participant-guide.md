@@ -24,7 +24,7 @@ In this guide we'll cover:
 * Table of contents
 {:toc}
 
-You can also [view this guide as a presentation]({{ site.baseurl }}{% link resources/participant-briefing.html %}).
+You can also [view this guide as a presentation]({{ site.baseurl }}{% link activities/participant-briefing.html %}).
 
 ## Professional standards
 
@@ -116,7 +116,7 @@ We ask that by the end of the hackathon:
 environmental science and includes access to the [CEDA Archive](https://www.ceda.ac.uk/).
 It is operated by [STFC](https://stfc.ukri.org/) on behalf of [NERC](https://stfc.ukri.org/).
 
-To access JASMIN [you need an account]({{ site.baseurl }}{% link resources/creating-jasmin-account.md %}).
+To access JASMIN [you need an account]({{ site.baseurl }}{% link activities/creating-jasmin-account.md %}).
 If you don't already have an account then we will allocate you a temporary
 account that you can use for the duration of the hackathon. Bear in mind that
 all data in temporary accounts will be removed at the end of the hackathon, so

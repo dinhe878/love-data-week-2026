@@ -119,8 +119,8 @@ header_pages:
   # - registration.md (no need hence removed)
   - agenda.md
   - where-is-the-data-day.md
+  - activities.md
   - videos-slides.md
-  - resources.md
   - about.md
 
 # Event status

@@ -12,17 +12,17 @@ menu_icon: journal-code
 </li>
 <li class="resource-block" markdown="1">
 
-## Resource 2
+## Activity 2
 
 </li>
 <li class="resource-block" markdown="1">
 
-## Resource 3
+## Activity 3
 
 </li>
 <li class="resource-block" markdown="1">
 
-## Resource 4
+## Activity 4
 
 </li>
 </ul>

@@ -5,9 +5,6 @@ menu_title: Home
 menu_icon: house-door
 ---
 
-# Hei – Hej Data lovers!  
-**9–13 February 2026**
-
 <!-- Two‑column block: intro text + image -->
 <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-top: 1.5rem;">
 
@@ -25,7 +22,7 @@ menu_icon: house-door
 
   <div style="flex: 1; max-width: 350px; min-width: 250px;">
     <img 
-      src="{{ site.baseurl }}{% link assets/advert.png %}" 
+      src="{{ site.baseurl }}{% link assets/Save-the-Date.png %}" 
       alt="Nordic Love Data Week banner" 
       style="width:100%; border-radius: 8px;"
     >
