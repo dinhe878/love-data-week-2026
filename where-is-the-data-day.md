@@ -5,14 +5,26 @@ menu_title: Where's the Data Day
 menu_icon: briefcase
 ---
 
-# Invitation to Where’s the Data Day  
-12 February 2026
+<!-- Two‑column block: image + text wrapping to the right -->
+<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-top: 0.5rem;">
 
-Welcome to this year’s Love Data Week theme: **“Where’s the Data?”**  
-A playful nudge to get everyone thinking about the journey our research data takes — from planning and collection to storage, documentation, and long‑term preservation.
+  <div style="flex: 1; max-width: 350px; min-width: 250px;">
+    <img 
+      src="{{ site.baseurl }}{% link assets/where-data-day-ads.png %}" 
+      alt="Where's the Data Day banner" 
+      style="width:100%; border-radius: 8px;"
+    >
+  </div>
 
-On Thursday 12 February 2026, we invite research groups across the Nordics to join a shared moment of reflection, cleanup, and improvement.  
-Think of it as a spring‑cleaning day… but for your data.
+  <div style="flex: 1; min-width: 280px;">
+    <p></p>
+    <h2>Welcome to this year's Love Data Week theme: <strong>"Where's the Data?"</strong></h2>
+    <p>A playful nudge to get everyone thinking about the journey our research data takes — from planning and collection to storage, documentation, and long‑term preservation.</p>
+    <p>On Thursday 12 February 2026, we invite research groups across the Nordics to join a shared moment of reflection, cleanup, and improvement.  
+Think of it as a spring‑cleaning day… but for your data.</p>
+  </div>
+
+</div>
 
 ---
 ## Why join?
