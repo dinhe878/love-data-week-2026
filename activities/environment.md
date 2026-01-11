@@ -12,7 +12,7 @@ layout: resource
 Some scripts to help with using the hackathon's Group Workspace on JASMIN, and
 a conda environment with pre-installed packages.
 
-See also our [example notebook]({% link resources/create-environment.md %}).
+See also our [example notebook]({% link activities/create-environment.md %}).
 </div>
 
 ## Table of contents
@@ -61,20 +61,20 @@ These are:
 
 ## activate-env bash script
 
-<iframe class="template" src="{% link resources/environment/activate-env.txt %}"></iframe>
-[Open in a new page]({% link resources/environment/activate-env.txt %})
+<iframe class="template" src="{% link activities/environment/activate-env.txt %}"></iframe>
+[Open in a new page]({% link activities/environment/activate-env.txt %})
 
 ## install-kernel bash script
 
-<iframe class="template" src="{% link resources/environment/install-kernel.txt %}"></iframe>
-[Open in a new page]({% link resources/environment/install-kernel.txt %})
+<iframe class="template" src="{% link activities/environment/install-kernel.txt %}"></iframe>
+[Open in a new page]({% link activities/environment/install-kernel.txt %})
 
 ## environment.yml unpinned dependencies
 
-<iframe class="template" src="{% link resources/environment/environment.yml.txt %}"></iframe>
-[Open in a new page]({% link resources/environment/environment.yml.txt %})
+<iframe class="template" src="{% link activities/environment/environment.yml.txt %}"></iframe>
+[Open in a new page]({% link activities/environment/environment.yml.txt %})
 
 ## environment_frozen.yml pinned dependencies
 
-<iframe class="template" src="{% link resources/environment/environment_frozen.yml.txt %}"></iframe>
-[Open in a new page]({% link resources/environment/environment_frozen.yml.txt %})
+<iframe class="template" src="{% link activities/environment/environment_frozen.yml.txt %}"></iframe>
+[Open in a new page]({% link activities/environment/environment_frozen.yml.txt %})
