@@ -18,10 +18,11 @@ menu_icon: briefcase
 
   <div style="flex: 1; min-width: 280px;">
     <p></p>
-    <h2>Welcome to this year's Love Data Week theme: <strong>"Where's the Data?"</strong></h2>
+    <h2>A theme to reflect: <strong>"Where's the Data?"</strong></h2>
     <p>A playful nudge to get everyone thinking about the journey our research data takes — from planning and collection to storage, documentation, and long‑term preservation.</p>
     <p>On Thursday 12 February 2026, we invite research groups across the Nordics to join a shared moment of reflection, cleanup, and improvement.  
-Think of it as a spring‑cleaning day… but for your data.</p>
+Think of it as a spring‑cleaning day… but for <strong>your data</strong>.</p>
+    <p>Although it works great if you do activities as a group, you could also just (re)think about your data management strategies on how to make data more findable!</p>
   </div>
 
 </div>
