@@ -30,9 +30,10 @@ Think of it as a spring‑cleaning day… but for <strong>your data</strong>.</p
 ---
 ## Why join?
 
-Maybe your group could benefit from creating a data management plan template.  
-Maybe you’ve been meaning to improve reproducibility practices or finally document that workflow only one person understands.  
-Or perhaps you’re ready to start publishing datasets alongside your scientific articles.
+- Time for your group to benefit from creating a data management plan template, so <strong>all group member can finally know where to find the data?</strong>
+- Improve reproducibility practices by start <strong>strategizing data storage location and duration</strong>.
+- Finally document the workflow so that not just creator understands, <strong>before creator forgot where is the workflow</strong>.
+- Ready to start publishing datasets alongside your scientific articles? Hmm...but <strong>where should I publish my datasets?</strong>
 
 Whatever your situation, this is your moment to pause, breathe, and give your data the love it deserves — together with colleagues across the Nordic region.
 
