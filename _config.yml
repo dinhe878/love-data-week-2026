@@ -107,8 +107,8 @@ description:
   This year, for the first time, Nordic Love Data Week is organized by a consortium of Nordic universities, aiming to promote awareness 
   and best practices in research data management, data sharing, and data literacy across the Nordic region.
 
-url: "https://dinhe878.github.io/love-data-week-2026"
-baseurl: "/love-data-week-2026"
+url: "https://www.nordiclovedataweek.org" 
+baseurl: ""
 github_repo: dinhe878/love-data-week-2026
 
 theme: minima
