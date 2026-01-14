@@ -27,8 +27,8 @@ Think of it as a spring‑cleaning day… but for <strong>your data</strong>.</p
 
 </div>
 <br>
+
 ---
-<br>
 
 ## Why join?
 
