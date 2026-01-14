@@ -8,8 +8,8 @@ menu_icon: house-door
 <!-- Two‑column block: intro text + image -->
 <div style="display: flex; gap: 2rem; flex-wrap: nowrap; margin-top: 1.5rem; margin-bottom: 0;">
 
-  <!-- Left column (approx 60%) -->
-  <div style="flex: 1; max-width: 60%;">
+  <!-- Left column: text grows more -->
+  <div style="flex-grow: 2; flex-shrink: 1; flex-basis: 0; min-width: 260px;">
     <p>
       This year, for the first time, Nordic Love Data Week is organized by several Nordic universities.  
       We aim to promote awareness and best practices about research data management, data sharing,  
@@ -21,12 +21,12 @@ menu_icon: house-door
     </p>
   </div>
 
-  <!-- Right column (approx 40%) -->
-  <div style="flex: 1; max-width: 40%;">
+  <!-- Right column: image grows less (always stays on the right) -->
+  <div style="flex-grow: 1; flex-shrink: 1; flex-basis: 0; min-width: 240px; text-align: right;">
     <img 
       src="{{ site.baseurl }}{% link assets/Save-the-Date.png %}" 
       alt="Nordic Love Data Week banner" 
-      style="width:90%; height:auto; border-radius: 8px;"
+      style="width:85%; height:auto; border-radius: 8px;"
     >
   </div>
 
