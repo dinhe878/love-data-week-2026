@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Where’s the data?
+title: Invitation to Where’s the data Day - 12 February 2026
 menu_title: Where's the Data Day
 menu_icon: briefcase
 ---
@@ -40,18 +40,16 @@ Whatever your situation, this is your moment to pause, breathe, and give your da
 ---
 ## Setup and preparation
 
-During Love Data Week, Nordic universities offer a range of online presentations and workshops to spark ideas and inspire your group’s work.  
-Add link here: **[Presentations]**
+Invite your research group to spend two or more hours to discuss and work with your own data practices. This is a self-administered event, so book your own room, coffee and most importantly a time slot! You can already now go through a RDM checklist to help decide which subject to dig into. **[Download the PDF Checklist]({{ site.baseurl }}{% link assets/LDW2026_cleanUp_checklist.pdf %})**
 
-You can also explore our RDM Checklist to help decide where to focus your efforts. 
-**[Download the PDF Checklist]({{ site.baseurl }}{% link assets/LDW2026_cleanUp_checklist.pdf %})**
 
-Your university may also offer tailored workshops or consultations.  
-Reach out to your library or data management support office — they’re always happy to help.
+Further, find inspiration in the During the Love Data Week, you are offered a range of online presentations and workshops arranged the previous day by Nordic Universities. The presentations can be an inspiration for your group’s work. [LINK] **[Presentations]**
+
+Your university may also offer tailored workshops or consultations. Reach out to your library or data management support office — they’re always happy to help.
 
 ---
-## Follow-up
+## Share your work
 
-On Friday, we’ll host a drop‑in session for anyone who wants to share experiences, ask questions, or simply talk about how their “Where’s the Data Day” went.
+On Friday, a drop-in session is open for anyone wanting to discuss or share their experiences with the “Where’s the data Day”
 
 Let’s make Data Care a Nordic tradition.
