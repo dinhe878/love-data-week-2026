@@ -39,7 +39,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Lara Ejtehadian</strong> (Aalto), <strong>Matteo Iannacchero</strong> (Aalto), <strong>Srikar Yadala</strong> (NTNU)<br>
-        <strong>Speaker bio:</strong> Lara Ejtehadian is a Research Information Specialist and a System Admin for ELNs at Aalto University. Aalto University uses two ELNs: Aalto Electronic Laboratory Notebook (based on the open-source platform eLabFTW; and Aalto Materials Digitalization Platform (a custom-built system). These ELN platforms, including their features and benefits in facilitating research data management, will be presented. Srikar Yadala...
+        <strong>Speaker bio:</strong> Lara Ejtehadian is a Research Information Specialist at Aalto University. She will present the benefits of using ELNs and highlight their key features. Matteo Iannacchero is a Doctoral Researcher in Multifunctional Materials Design at Aalto University. He will share his experience using an ELN as a researcher.
       </td>
     </tr>
 
