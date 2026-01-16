@@ -26,7 +26,6 @@ menu_icon: clock
       <td>In this webinar DeiC introduces you to the FAIR principles and make data reproducible</td>
       <td>
         <strong>Hanna Mihai</strong> and <strong>Sandra Boerman</strong> DeiC<br>
-        <strong>Speaker bio:</strong> (No bio provided in XLSX)
       </td>
     </tr>
 
@@ -39,6 +38,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Lara Ejtehadian</strong> (Aalto), <strong>Matteo Iannacchero</strong> (Aalto), <strong>Srikar Yadala</strong> (NTNU)<br>
+        <br>
         <strong>Speaker bio:</strong> Lara Ejtehadian is a Research Information Specialist at Aalto University. She will present the benefits of using ELNs and highlight their key features. Matteo Iannacchero is a Doctoral Researcher in Multifunctional Materials Design at Aalto University. He will share his experience using an ELN as a researcher.
       </td>
     </tr>
@@ -52,6 +52,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Rosa Lönneborg</strong><br>
+        <br>
         <strong>Speaker bio:</strong> Rosa works as the research data coordinator at KTH with a background in life science research and informatics, and is part of a small team managing the institutional repository at KTH
       </td>
     </tr>
@@ -86,6 +87,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Mattias Vesterlund</strong> (KTH)<br>
+        <br>
         <strong>Speaker bio:</strong>  Mattias has a background as a researcher in Life Sciences working with proteins and Omics-data. He is currently working as a Research Data Advisor and Educator at KTH in Stockholm, Sweden.
       </td>
     </tr>
@@ -99,6 +101,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Ding He</strong><br>
+        <br>
         <strong>Speaker bio:</strong> Ding is trained as researcher with a diverse background in biological science and bioinformatics. He is currently working as Research Data Steward at BRIGHT, DTU Denmark.
       </td>
     </tr>
@@ -112,6 +115,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Jitka Stilund Hansen</strong><br>
+        <br>
         <strong>Speaker bio:</strong> Jitka works with research data management at DTU Library and is part of a small team managing the institutional data repository. She has a background in biology and health science.
       </td>
     </tr>
@@ -144,6 +148,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Jeannette Ekstrøm</strong><br>
+        <br>
         <strong>Speaker bio:</strong> Jeannette works with research support and teaching both student and researchers with methods for literature searching, litterature review, using Generative AI as supplement for their workflow and also Reference Management and more. She has taken a Library Carpentry certification in OpenRefine
       </td>
     </tr>
@@ -212,6 +217,7 @@ menu_icon: clock
       </td>
       <td>
         <strong>Rosa Lönneborg</strong><br>
+        <br>
         <strong>Speaker bio:</strong> Rosa Lönneborg will make an effort of being the friendly host (and preferably as many of you who wants to join)
       </td>
     </tr>
