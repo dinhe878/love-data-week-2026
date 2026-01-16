@@ -127,3 +127,9 @@ menu_icon: house-door
   </div>
 
 </div>
+
+<div style="margin: 3rem 0; border-bottom: 2px solid #e0e0e0;"></div>
+
+## Feedback
+
+Have suggestions for agenda updates, content improvements, or other ideas? Please [raise an issue on GitHub](https://github.com/dinhe878/love-data-week-2026/issues) to share your feedback or request changes.
