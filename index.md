@@ -78,7 +78,22 @@ menu_icon: house-door
     </div>
     <div style="flex: 1; padding: 0.5rem; border-left: 3px solid #e8f4f8;">
       <h4 style="margin: 0 0 0.5rem 0;">Monday, Feb 9</h4>
-      <p style="margin: 0; color: #555;">FAIR data, Electronic Lab Notebooks, and data repository selection</p>
+      <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">FAIR data, Electronic Lab Notebooks, and data repository selection</p>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 11:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Hannah Mihai</strong> and <strong>Sandra Boerman</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">FAIR data and how to check fairness of your data</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">12:00 – 13:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Lara Ejtehadian</strong>, <strong>Matteo Iannacchero</strong>, <strong>Srikar Yadala</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">Supporting good research management practices with Electronic Lab Notebooks</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">14:00 – 14:45</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Rosa Lönneborg</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">Where will my data end up? Selecting a high quality repository for the data underlying your published results</a>
+      </div>
     </div>
   </div>
 
@@ -89,7 +104,22 @@ menu_icon: house-door
     </div>
     <div style="flex: 1; padding: 0.5rem; border-left: 3px solid #e8f4f8;">
       <h4 style="margin: 0 0 0.5rem 0;">Tuesday, Feb 10</h4>
-      <p style="margin: 0; color: #555;">Data visualization, data publication and data infrastructure</p>
+      <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">Data visualization, data publication and data infrastructure</p>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">11:00 – 12:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Mattias Vesterlund</strong> (KTH)</span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">Visualize your research data</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">13:00 – 13:30</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Ding He</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">BRIGHT Data Catalog - Developing A Research Data Management Infrastructure</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">14:00 – 14:30</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jitka Stilund Hansen</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">Where's the data to your article? Learn how to prepare a Data Availability Statement</a>
+      </div>
     </div>
   </div>
 
@@ -100,7 +130,17 @@ menu_icon: house-door
     </div>
     <div style="flex: 1; padding: 0.5rem; border-left: 3px solid #e8f4f8;">
       <h4 style="margin: 0 0 0.5rem 0;">Wednesday, Feb 11</h4>
-      <p style="margin: 0; color: #555;">Introduction to OpenRefine for data cleaning</p>
+      <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">Searching for research data and Introduction to OpenRefine</p>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 11:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Sacha Zurcher</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">Searching for research data</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">12:00 – 12:50</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jeannette Ekstrøm</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-11-wed" style="color: #3498db;">Introduction to OpenRefine</a>
+      </div>
     </div>
   </div>
 
@@ -111,7 +151,7 @@ menu_icon: house-door
     </div>
     <div style="flex: 1; padding: 0.5rem; border-left: 3px solid #e8f4f8;">
       <h4 style="margin: 0 0 0.5rem 0;">Thursday, Feb 12</h4>
-      <p style="margin: 0; color: #555;"><strong><a href="{{ site.baseurl }}{% link where-is-the-data-day.md %}" style="color: #e74c3c;">Where's the Data Day</a></strong> – Reserve some time for taking care of your research data and joining other research groups across the Nordic countries in developing better data practices</p>
+      <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;"><strong><a href="{{ site.baseurl }}{% link where-is-the-data-day.md %}" style="color: #e74c3c;">Where's the Data Day</a></strong> – Reserve some time for taking care of your research data and joining other research groups across the Nordic countries in developing better data practices</p>
     </div>
   </div>
 
@@ -122,7 +162,12 @@ menu_icon: house-door
     </div>
     <div style="flex: 1; padding: 0.5rem; border-left: 3px solid #e8f4f8;">
       <h4 style="margin: 0 0 0.5rem 0;">Friday, Feb 13</h4>
-      <p style="margin: 0; color: #555;">Wrap-up session and data demo party</p>
+      <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">Wrap-up session and data demo party</p>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:30 – 12:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Rosa Lönneborg</strong></span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-13-fri" style="color: #3498db;">Wrap up session and data demo party</a>
+      </div>
     </div>
   </div>
 
