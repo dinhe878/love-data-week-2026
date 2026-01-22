@@ -147,6 +147,18 @@ menu_icon: clock
     </tr>
 
     <tr>
+      <td>11:00 – 12:00</td>
+      <td>FAIR by Default: Building Reproducible Digital Research Projects</td>
+      <td><a href="">Zoom link</a></td>
+      <td>
+        How can individual researchers put FAIR (Findable, Accessible, Interoperable, Reusable) into practice without being tech experts? This talk shows a practical workflow that makes FAIR the default: a guided template standardizes structure, locks environments, and versions code/data, while a live machine-actionable DMP (maDMP) updates as datasets evolve. A companion editor adds policy guardrails and one-click publishing to approved services (e.g., Dataverse/Zenodo), providing a straightforward path to integrate institutional and national infrastructure into everyday work.
+      </td>
+      <td>
+        <strong>Kristoffer Gulmark Poulsen</strong> is a data scientist and HPC administrator at Copenhagen Business School, working on supercomputing, research data management, and financial databases.
+      </td>
+    </tr>
+
+    <tr>
       <td>12:00 – 12:50</td>
       <td>Introduction to OpenRefine</td>
       <td><a href="https://dtudk.zoom.us/s/68896187093?pwd=OQlxYSAOrbcHtQlklRVa9Ab4n8QIyz.1">Zoom link</a></td>
