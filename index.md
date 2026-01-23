@@ -81,7 +81,7 @@ menu_icon: house-door
       <p style="margin: 0 0 0.5rem 0; color: #555; font-size: 1.1em; font-weight: 600;">FAIR data, Electronic Lab Notebooks, and data repository selection</p>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:00 – 11:00</span>
-        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Hannah Mihai</strong> and <strong>Sandra Boerman</strong></span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Hannah Mihai</strong></span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">FAIR data and how to check fairness of your data</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">

@@ -25,7 +25,7 @@ menu_icon: clock
       <td><a href="https://deic.zoom.us/j/65412945886">Zoom link</a></td>
       <td>In this webinar DeiC will introduce you to the FAIR principles and its importance to make data reproducible and aligned with research code of conduct(s).  You will also learn how to define the FAIRification rationale for your data by using self evaluation tools such as (e.g. F-UJI or FAIR evaluator) and get practical tips on how to get started to enhance it’s FAIRness.</td>
       <td>
-        <strong>Hannah Mihai</strong> and <strong>Sandra Boerman</strong> are data management consultants from Danish e-infrastructure Consortium (DeiC)<br>
+        <strong>Hannah Mihai</strong> is a data management consultant from Danish e-infrastructure Consortium (DeiC)<br>
       </td>
     </tr>
 
