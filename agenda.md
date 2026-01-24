@@ -279,7 +279,10 @@ menu_icon: clock
     <tr>
       <td>10:30 – 12:00</td>
       <td>Wrap up session and data demo party</td>
-      <td><a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a></td>
+      <td>
+        <a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a>
+        <a href="https://www.kth.se/en/biblioteket/kalender/love-data-week-wrap-up-session-1.1453252">Event page</a>
+      </td>
       <td>
         A drop‑in session for anyone who wants to share experiences, show examples of your lovely data, ask questions, or simply talk about how their “Where’s the Data Day” went. We promise to be amazed and cheer at anyone who feels comfortable enough to share their work with their data!! And we're very grateful for all kinds of feedback from participants
       </td>
