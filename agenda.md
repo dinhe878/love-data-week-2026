@@ -208,7 +208,7 @@ menu_icon: clock
         Datasets archived in public repositories need proper licensing. This talk will take you through the most common licenses for data reuse, and discusses potential problems that could arise.
       </td>
       <td>
-        <strong>Daniel Henry Øvrebø</strong> (UiB) works as a research data specialist at the Royal Danish Library based at Roskilde University. She supports researchers, runs courses for Ph.D. students, and advises university management on issues related to research data. She has a background in human geography.
+        <strong>Daniel Henry Øvrebø</strong> is senior research librarian and subject specialist in music at the Bergen University Library, and coordinates the library's research data team. The team offers various data management support services for the UiB academic staff, including curating datasets deposited to UiBs DataverseNO institutional repository.
       </td>
     </tr>
 
