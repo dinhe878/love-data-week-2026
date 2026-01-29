@@ -30,6 +30,16 @@ menu_icon: clock
     </tr>
 
     <tr>
+      <td>10:30 – 11:00</td>
+      <td>An introduction to Data Management Plans</td>
+      <td><a href="[https://deic.zoom.us/j/65412945886](https://chalmers.zoom.us/j/62197498507)">Zoom link (Password: 541484)</a></td>
+      <td>This introductory seminar provides an overview of Data Management Plans (DMPs). Participants will learn why DMPs are a useful element in a researcher's toolbox, and how they support good research practices across the research data lifecycle. The session also introduces key components of a DMP and points to tools and resources that can help researchers create effective plans.</td>
+      <td>
+        <strong>Jeremy Azzopardi</strong>  is a Digital Research Engineer at Chalmers e-Commons with over a decade of experience in research data management.<br>
+      </td>
+    </tr>
+
+    <tr>
       <td>12:00 – 13:00</td>
       <td>Supporting good research management practices with Electronic Lab Notebooks</td>
       <td><a href="https://NTNU.zoom.us/j/92985347031?pwd=Q1hRNPJabruNOtOblT4lTsUhC1OGmo.1&jst=1">Zoom link</a></td>
