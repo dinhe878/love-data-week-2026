@@ -85,6 +85,11 @@ menu_icon: house-door
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">FAIR data and how to check fairness of your data</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">10:30 – 11:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jeremy Azzopardi</strong> (Chalmers)</span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">An introduction to Data Management Plans</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">12:00 – 13:00</span>
         <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Lara Ejtehadian</strong> (Aalto), <strong>Matteo Iannacchero</strong> (Aalto), <strong>Srikar Yadala</strong> (NTNU)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">Supporting good research management practices with Electronic Lab Notebooks</a>
@@ -119,6 +124,11 @@ menu_icon: house-door
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">13:00 – 13:30</span>
         <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Ding He</strong> (DTU)</span>
         <a href="{{ site.baseurl }}{% link agenda.md %}#feb-10-tue" style="color: #3498db;">BRIGHT Data Catalog - Developing A Research Data Management Infrastructure</a>
+      </div>
+      <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
+        <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">13:30 – 14:00</span>
+        <span style="color: #333; display: block; margin: 0.25rem 0;"><strong>Jeremy Azzopardi</strong> (Chalmers)</span>
+        <a href="{{ site.baseurl }}{% link agenda.md %}#feb-9-mon" style="color: #3498db;">Introduction to Data Publishing and Zenodo</a>
       </div>
       <div style="margin: 0.5rem 0; padding: 0.5rem; border-left: 2px solid #d0d0d0;">
         <span style="color: #888; font-weight: 600; display: block; font-size: 0.95em;">14:00 – 14:30</span>
