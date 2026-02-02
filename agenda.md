@@ -61,6 +61,7 @@ menu_icon: clock
       <td>Where will my data end up? Selecting a high quality repository for the data underlying your published results</td>
       <td>
         <a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a>
+        <br/>
         <a href="https://www.kth.se/en/biblioteket/kalender/love-data-week-vart-tar-min-data-vagen-1.1452109">Event page</a>
       </td>
       <td>
@@ -107,6 +108,7 @@ menu_icon: clock
       <td>Visualize your research data</td>
       <td>
         <a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a>
+        <br/>
         <a href="https://www.kth.se/en/biblioteket/kalender/love-data-week-visualisera-din-forskningsdata-1.1453168">Event page</a>
         </td>
       <td>
@@ -124,6 +126,7 @@ menu_icon: clock
       <td>BRIGHT Data Catalog - Developing A Research Data Management Infrastructure</td>
       <td>
         <a href="https://dtudk.zoom.us/j/64272091751">Zoom link</a>
+        <br/>
         <a href="https://www.bibliotek.dtu.dk/kalender/love-data-week-10022026?id=5bd1abef-be79-4029-8a41-dbba931d8a48">Event page</a>
       </td>
       <td>
@@ -149,6 +152,7 @@ menu_icon: clock
       <td>Where's the data to your article? Learn how to prepare a Data Availability Statement</td>
       <td>
         <a href="https://dtudk.zoom.us/j/69571497149">Zoom link</a>
+        <br/>
         <a href="https://www.bibliotek.dtu.dk/kalender/love-data-week-10022026-2?id=ce8ee2a0-896e-417f-ad0e-0e6fd53e2c1d">Event page</a>
       </td>
       <td>
@@ -193,7 +197,11 @@ menu_icon: clock
     <tr>
       <td>11:00 – 12:00</td>
       <td>FAIR by Default: Building Reproducible Digital Research Projects</td>
-      <td><a href="">Zoom link</a></td>
+      <td>
+        <a href="https://cbs-dk.zoom.us/j/63851883520">Zoom link</a> (Password: 603040)
+        <br/>
+        <a href="https://cbs.libcal.com/event/4508273">Event page</a>
+      </td>
       <td>
         How can individual researchers put FAIR (Findable, Accessible, Interoperable, Reusable) into practice without being tech experts? This talk shows a practical workflow that makes FAIR the default: a guided template standardizes structure, locks environments, and versions code/data, while a live machine-actionable DMP (maDMP) updates as datasets evolve. A companion editor adds policy guardrails and one-click publishing to approved services (e.g., Dataverse/Zenodo), providing a straightforward path to integrate institutional and national infrastructure into everyday work.
       </td>
@@ -207,6 +215,7 @@ menu_icon: clock
       <td>Introduction to OpenRefine</td>
       <td>
         <a href="https://dtudk.zoom.us/s/68896187093?pwd=OQlxYSAOrbcHtQlklRVa9Ab4n8QIyz.1">Zoom link</a>
+        <br/>
         <a href="https://www.bibliotek.dtu.dk/kalender/love-data-week-11022026?id=544af4d2-7049-42e5-b64f-6565981cadf4">Event page</a>
       </td>
       <td>
@@ -222,6 +231,7 @@ menu_icon: clock
       <td>Licensing research data for reuse</td>
       <td>
         <a href="https://uib.zoom.us/j/67342264349?pwd=vNcFbe4mCcHeaQUBHzDuJAa5GjWMVC.1">Zoom link</a>
+        <br/>
         <a href="https://www.uib.no/ub/181351/licensing-data-reuse">Event page</a>
       </td>
       <td>
@@ -314,6 +324,7 @@ menu_icon: clock
       <td>Wrap up session and data demo party</td>
       <td>
         <a href="https://kth-se.zoom.us/j/68389727657">Zoom link</a>
+        <br/>
         <a href="https://www.kth.se/en/biblioteket/kalender/love-data-week-wrap-up-session-1.1453252">Event page</a>
       </td>
       <td>
