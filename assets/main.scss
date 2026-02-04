@@ -369,3 +369,86 @@ ul.grid {
 .agenda tr > *:nth-child(5) {
   width: 26%;
 }
+
+/* -------------------------
+   Responsive tables for mobile/tablet
+   ------------------------- */
+@include media-query($on-palm) {
+  table {
+    border: 0;
+  }
+
+  table thead {
+    display: none;
+  }
+
+  table tr {
+    display: block;
+    margin-bottom: 1em;
+    border-top: 4px solid #9a0000;
+    padding-top: 0.5em;
+  }
+
+  table td {
+    display: block;
+    width: 100% !important;
+    box-sizing: border-box;
+    padding: 0.5em 0.5em;
+    border: none;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  table td:last-child {
+    border-bottom: none;
+  }
+
+  /* Show column labels on mobile using data-label attribute if present */
+  table td[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    color: #555;
+  }
+
+  /* Agenda table specific - label each cell based on position */
+  .agenda td:nth-child(1)::before {
+    content: "Time";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    color: #555;
+  }
+
+  .agenda td:nth-child(2)::before {
+    content: "Event";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    color: #555;
+  }
+
+  .agenda td:nth-child(3)::before {
+    content: "Where";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    color: #555;
+  }
+
+  .agenda td:nth-child(4)::before {
+    content: "Details";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    color: #555;
+  }
+
+  .agenda td:nth-child(5)::before {
+    content: "Organiser";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    color: #555;
+  }
+}
