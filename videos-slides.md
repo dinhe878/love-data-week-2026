@@ -18,7 +18,7 @@ In this webinar **Hannah Mihai** (DeiC) introduces you to the FAIR principles an
 </li>
 
 <li class="slides" markdown="1">
-{% include pdf.html pdf="aassets/Where will my data end up Nordic love data week 2026.pdf" title="Where will my data end up?" %}
+{% include pdf.html pdf="assets/Where will my data end up Nordic love data week 2026.pdf" title="Where will my data end up?" %}
 
 In this webinar **Rosa Lönneborg** (KTH) introduces a few of the numerous data repositories where you can deposit research data. In this session you will learn more on how to select a good repository. And instroduce factors to consider when selecting a suitable repository to deposit data as a part of a trustworthy research practice - and to increase the impact of your research as well. Some examples of research data from KTH data repository , Zenodo and the Swedish researchdata.se portal will be shown. 
 
