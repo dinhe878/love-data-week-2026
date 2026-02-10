@@ -6,6 +6,26 @@ event_status:
  - soon
 ---
 
+## Day 1 Love Data Week 2026
+
+<ul class="grid">
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/Nordic-Love-Data-Week-DeiC.pdf" title="FAIR data and how to check fairness of your data" %}
+
+In this webinar **Hannah Mihai** (DeiC) introduces you to the FAIR principles and its importance to make data reproducible and aligned with research code of conduct(s). You will also learn how to define the FAIRification rationale for your data by using self evaluation tools such as (e.g. F-UJI or FAIR evaluator) and get practical tips on how to get started to enhance it's FAIRness.
+
+</li>
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="aassets/Where will my data end up Nordic love data week 2026.pdf" title="Where will my data end up?" %}
+
+In this webinar **Rosa Lönneborg** (KTH) introduces a few of the numerous data repositories where you can deposit research data. In this session you will learn more on how to select a good repository. And instroduce factors to consider when selecting a suitable repository to deposit data as a part of a trustworthy research practice - and to increase the impact of your research as well. Some examples of research data from KTH data repository , Zenodo and the Swedish researchdata.se portal will be shown. 
+
+</li>
+
+</ul>
+
 ## Day 2 Love Data Week 2026
 
 <ul class="grid">
@@ -13,7 +33,7 @@ event_status:
 <li class="slides" markdown="1">
 {% include pdf.html pdf="assets/Visualize_research_and_Data_MVesterlund_20260210.pdf" title="Visualize Research and Data" %}
 
-In this webinar KTH (**Mattias Vesterlund**) introduces you to how to visualize different types of research data in various contexts. A picture is worth a thousand words, but how do you best communicate your results visually?The webinar goes through what to consider when visualizing data and research results, both graphical aspects of data visualization and how to reason about colour choice, layout and choice of charts and graphs. 
+In this webinar **Mattias Vesterlund** (KTH) introduces you to how to visualize different types of research data in various contexts. A picture is worth a thousand words, but how do you best communicate your results visually?The webinar goes through what to consider when visualizing data and research results, both graphical aspects of data visualization and how to reason about colour choice, layout and choice of charts and graphs. 
 
 </li>
 
@@ -26,18 +46,7 @@ In this webinar **Ding He** (BRIGHT, DTU) shares his experiences and opinions to
 
 </ul>
 
-## Day 1 Love Data Week 2026
 
-<ul class="grid">
-
-<li class="slides" markdown="1">
-{% include pdf.html pdf="assets/Nordic-Love-Data-Week-DeiC.pdf" title="FAIR data and how to check fairness of your data" %}
-
-In this webinar DeiC (**Hannah Mihai**) introduces you to the FAIR principles and its importance to make data reproducible and aligned with research code of conduct(s). You will also learn how to define the FAIRification rationale for your data by using self evaluation tools such as (e.g. F-UJI or FAIR evaluator) and get practical tips on how to get started to enhance it's FAIRness.
-
-</li>
-
-</ul>
 
 ## Some talks from Love Data Week 2025
 
