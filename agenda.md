@@ -251,12 +251,12 @@ menu_icon: clock
       <td>
         <b>Responsible Preservation of Research Data (Mari Elisa Kuusiniemi, University of Helsinki)</b>
         <br/>
-        Join us to explore the ‘Checklist for the Responsible Preservation of Research Data’—a practical guide for researchers and research support professionals. The event uses a checklist originating from the University of Helsinki’s data preservation guidance (https://doi.org/10.5281/zenodo.10424017), yet the presentation and checklist are fully applicable beyond any single organisation.
+        Join us to explore the ‘Checklist for the Responsible Preservation of Research Data’—a practical guide for researchers and research support professionals. The event uses a checklist originating from the University of Helsinki’s data preservation guidance (<a href="https://doi.org/10.5281/zenodo.10424017">https://doi.org/10.5281/zenodo.10424017</a>), yet the presentation and checklist are fully applicable beyond any single organisation.
         <br/>
         <br/>
         <b>Data Available on Unreasonable Request (Enrico Glerean, Aalto University)</b>
         <br/>
-        Do you love open data? Do you conduct data appraisal? Data availability statements are basically mandatory in every field, but there are sometimes hurdles so that you can always make your data "available on reasonable request". In this short provocative talk Enrico will argue that maybe we can just be honest and tell that not all data is worth opening, and more resources and efforst should be invested on high quality datasets that truly have potential for reuse and new discoveries. 
+        Do you love open data? Do you conduct data appraisal? Data availability statements are basically mandatory in every field, but there are sometimes hurdles so that you can always make your data "available on reasonable request". In this short provocative talk Enrico will argue that maybe we can just be honest and tell that not all data is worth opening, and more resources and efforst should be invested on high quality datasets that truly have potential for reuse and new discoveries. Slides here: <a href="https://zenodo.org/records/18609058">https://zenodo.org/records/18609058</a>
       </td>
       <td>
         <p><strong>Mari Elisa Kuusniemi</strong> works as an Information Specialist on Data support at the Helsinki University Library.</p>
