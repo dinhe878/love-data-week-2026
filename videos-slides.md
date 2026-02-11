@@ -46,6 +46,19 @@ In this webinar **Ding He** (BRIGHT, DTU) shares his experiences and opinions to
 
 </ul>
 
+## Day 3 Love Data Week 2026
+
+<ul class="grid">
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/20260211_NordicLoveDataWeek_SearchingResearchData_Sacha.pdf" title="Searching for research data" %}
+
+The aim of FAIR data is to have, where possible, research data open and accessible to review and reuse. The present reality complicates data’s findability in a myriad of ways not least of which is the decentralised nature of research data repositories and indexes that characterise the data publishing landscape. In this presentation **Sacha Zurcher** (Royal Danish Library) discuss how a network of library research support staff in Denmark, have developed a workshop designed to enhance the competencies of researchers to search for published data. 
+
+</li>
+
+</ul>
+
 
 
 ## Some talks from Love Data Week 2025
