@@ -57,6 +57,13 @@ The aim of FAIR data is to have, where possible, research data open and accessib
 
 </li>
 
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/LoveDataWeek-DTU-Library-Introducing-OpenRefine_20260211.pdf" title="Introduction to OpenRefine" %}
+
+OpenRefine is a powerful free, open source application for cleaning up messy data and transform the dataset into other formats. This webinar given by **Jeannette Ekstrøm** aims to inspire you to get started with OpenRefine. 
+
+</li>
+
 </ul>
 
 
