@@ -24,6 +24,14 @@ In this webinar **Rosa Lönneborg** (KTH) introduces a few of the numerous data 
 
 </li>
 
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/LDW - Data Management Plans - 9 feb 2026.pdf" title="WA quick introduction to Data Management Plans" %}
+
+In this webinar **Jeremy Azzopardi** (Chalmers) introduces Data Management Plans (DMPs) and their usefulness as a tool for keeping track of resaerch data and potential issues which may arise during the research process. 
+
+</li>
+
+
 </ul>
 
 ## Day 2 Love Data Week 2026
