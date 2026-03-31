@@ -31,6 +31,26 @@ In this webinar **Jeremy Azzopardi** (Chalmers) introduces Data Management Plans
 
 </li>
 
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/2026_Nordic_LDW_ELNs_Aalto_1.pdf" title="Electronic laboratory notebooks for facilitating research data management" %}
+
+In this webinar **Lara Ejtehadian**, a Research Information Specialist and ELN System Administrator at Aalto University, presents Aalto’s Electronic Laboratory Notebook based on the open-source platform eLabFTW.
+
+</li>
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/2026_Nordic_LDW_ELNs_Aalto_2.pdf" title="AMAD for Material Science" %}
+
+In this webinar **Matteo Iannacchero**, a doctoral researcher in multifunctional materials design at Aalto University, introduces Aalto’s second ELN: the Aalto Materials Digitalization Platform, a custom-built system. Both platforms and their features for improving research data management is discussed.
+
+</li>
+
+<li class="slides" markdown="1">
+{% include pdf.html pdf="assets/2026_Nordic_LDW_ELNs_NTNU.pdf" title="Implementing RSpace ELN at NTNU Fluid Mechanics Laboratory" %}
+
+In this webinar **Srikar Yadala**, a researcher in NTNU’s Thermo-Fluids group and coordinator of the Fluid Mechanics Laboratory, also a superuser of RSpace, shares insights on integrating ELNs into experimental research and his experience implementing RSpace to streamline workflows.
+
+</li>
 
 </ul>
 
