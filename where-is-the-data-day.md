@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Invitation to Where’s the Data Day - 12 February 2026
-menu_title: Where's the Data Day
+menu_title: 2026 : Where's the Data Day 
 menu_icon: briefcase
 year: 2026
 ---
