@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Activities
-menu_title: Global activities
+menu_title: Global activities 2026
 menu_icon: calendar-event
 year: 2026
 ---
