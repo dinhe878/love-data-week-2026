@@ -1,6 +1,6 @@
 ---
 title: Videos and slides
-menu_title: Videos & slides
+menu_title: Videos & slides 2026
 menu_icon: film
 event_status:
 year: 2026
