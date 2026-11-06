@@ -12,7 +12,7 @@
         {%- include breadcrumbs.html -%}
 
         {%- if page.year and page.year != site.event_year -%}
-        <div class="archive-notice">
+        <div class="archive-notice" style="margin-bottom: 3em;">
         You are looking at the <strong>{{ page.year }}</strong> programme, kept as a record.
         The next Nordic Love Data Week runs <a href="{{ '/' | relative_url }}">{{ site.event_date }}</a>.
         </div>
